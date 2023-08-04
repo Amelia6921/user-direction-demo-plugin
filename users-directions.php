@@ -4,11 +4,11 @@
  */
 /*
 Plugin Name: User's directions   
-Plugin URI: https://github.com/dev-ramiz-1707/users-directions
+Plugin URI: https://github.com/Amelia6921/user-direction-demo-plugin
 Description:This plugin will help redirect the user to a page based on the thair role.
 Version: 1.0.0
-Author: Ramiz Theba
-Author URI: https://github.com/dev-ramiz-1707
+Author: Amelia
+Author URI: https://github.com/Amelia6921
 License: GPLv2 or later
 Text Domain: user-directions
 */
