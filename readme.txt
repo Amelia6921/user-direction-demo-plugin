@@ -1,6 +1,6 @@
 === User's Direction ===
-Contributors: Ramiz Theba
-Donate link: https://imramiz.com
+Contributors: Amelia 
+Donate link: https://ameliea.com
 Tags: user, template, redirect
 Requires at least: 4.6
 Tested up to: 4.7
